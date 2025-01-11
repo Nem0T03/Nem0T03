@@ -1,7 +1,3 @@
-Dưới đây là phiên bản được thiết kế lại đẹp hơn, phong cách hơn, và nhấn mạnh sự chuyên nghiệp. Hãy thay đổi thông tin cá nhân của bạn vào các vị trí phù hợp.  
-
----
-
 # ⚡ Welcome to My Digital Playground ⚡  
 
 ![Banner](https://img.shields.io/badge/-Cybersecurity%20Enthusiast-black?style=for-the-badge&logo=hackthebox&logoColor=white)
@@ -42,12 +38,12 @@ Hey there! I'm **Nem0T03**, a **System Engineer** on a mission to master **Pente
 ## 📈 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nem0T03&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nem0T03&theme=radical" alt="GitHub Streak" height="180px" />
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nem0T03&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </p>  
 
 ---
@@ -63,8 +59,8 @@ Hey there! I'm **Nem0T03**, a **System Engineer** on a mission to master **Pente
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://ctftime.org/user/username"><img src="https://img.shields.io/badge/-CTFtime-orange?style=for-the-badge&logo=protonmail&logoColor=white" alt="CTFtime"></a>
+  <a href="https://linkedin.com/in/Nem0T03"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://ctftime.org/user/Nem0T03"><img src="https://img.shields.io/badge/-CTFtime-orange?style=for-the-badge&logo=protonmail&logoColor=white" alt="CTFtime"></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>  
 
@@ -72,7 +68,7 @@ Hey there! I'm **Nem0T03**, a **System Engineer** on a mission to master **Pente
 
 ## 🕒 Weekly Activity (Powered by WakaTime)  
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME&theme=radical)  
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nem0T03&theme=radical)  
 
 ---
 
@@ -80,5 +76,3 @@ Hey there! I'm **Nem0T03**, a **System Engineer** on a mission to master **Pente
 I don’t just solve problems—I hunt them. Let’s make the internet a safer place, one pentest at a time!  
 
 ---
-
-Đây là một README hoàn hảo với sự kết hợp của màu sắc nổi bật, thiết kế trung tâm và các thông tin cá nhân chuyên nghiệp. Bạn có thể thay đổi banner hoặc các thành phần nhỏ để tạo dấu ấn cá nhân hơn. 🚀
