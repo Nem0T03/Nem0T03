@@ -75,5 +75,3 @@ Hey there! I'm **Nem0T03**, a **System Engineer** on a mission to master **Pente
 
 ## ✨ Fun Fact  
 I don’t just solve problems—I hunt them. Let’s make the internet a safer place, one pentest at a time!  
-
----
