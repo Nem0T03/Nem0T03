@@ -33,7 +33,6 @@ Hey there! I'm **Nem0T03**, a **System Engineer** with a strong passion for **Pe
 |-----------------------------|-------------------------------|  
 | 🛠️ **System Expertise**    | Linux (LPIC 1, 2), Virtualization, Automation |  
 | 🌐 **Networking**           | CCNA Certified, Subnetting, Routing Protocols |  
-| 🛡️ **Cybersecurity**        | Web/App Pentesting, Threat Modeling, Forensics |  
 | 🧑‍💻 **Languages**          | Python, Bash, Rust, C++, C    |  
 | ⚙️ **Tools & Frameworks**   | Docker, Git, Metasploit, CI/CD Pipelines |  
 
