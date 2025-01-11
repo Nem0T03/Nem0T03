@@ -14,9 +14,9 @@ I love **breaking things to learn** and enjoy participating in **CTF competition
 
 | 🌐 **System Skills**      | 🛡️ **Security Skills**        | 💻 **Languages**           | ⚙️ **Tools**            |
 |---------------------------|-------------------------------|----------------------------|-------------------------|
-| Linux (LPIC 1, 2)         | Web & Network Pentesting       | Python, C, Rust, C++       | Docker, Git, CI/CD      |
-| CCNA (Networking)         | Vulnerability Assessment      | Bash scripting             | Open-source contribution|
-| Virtualization & Automation| Threat Modeling               | DevOps Scripting           | System Hardening        |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white) | ![Pentesting](https://img.shields.io/badge/Pentesting-%234f4f4f?style=flat-square&logo=metasploit&logoColor=red) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![CCNA](https://img.shields.io/badge/CCNA-00A3E0?style=flat-square&logo=cisco&logoColor=white) | ![Vulnerability](https://img.shields.io/badge/Vulnerability%20Assessment-7DB3E6?style=flat-square&logo=acn&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Virtualization](https://img.shields.io/badge/Virtualization-0095D6?style=flat-square&logo=vmware&logoColor=white) | ![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-D0C7D9?style=flat-square&logo=appveyor&logoColor=blue) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | ![CI/CD](https://img.shields.io/badge/CICD-%23000000?style=flat-square&logo=gitlab&logoColor=white) |
 
 ---
 
