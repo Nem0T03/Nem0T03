@@ -66,6 +66,12 @@ I love **breaking things to learn** and enjoy participating in **CTF competition
   <a href="https://ctftime.org/user/Nem0T03">
     <img src="https://img.shields.io/badge/-CTFtime-orange?style=for-the-badge&logo=protonmail&logoColor=white" alt="CTFtime">
   </a>
+  <a href="https://github.com/Nem0T03">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.hackthebox.eu/">
+    <img src="https://img.shields.io/badge/-HackTheBox-000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
+  </a>
 </p>
 
 ---
