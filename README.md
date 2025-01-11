@@ -22,9 +22,15 @@ I love **breaking things to learn** and enjoy participating in **CTF competition
 
 ## 🏆 Certifications  
 
-- **💼 CCNA**: Networking fundamentals mastery.  
-- **🐧 LPIC 1 & 2**: Advanced Linux system administration.  
-- **🏅 CTF Achievements**: Challenges completed on **Hack The Box**, **TryHackMe**, **CTFtime**.
+- **💼 [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)**  
+  ![CCNA](https://img.shields.io/badge/CCNA-00A3E0?style=flat-square&logo=cisco&logoColor=white)  
+  Mastery of networking fundamentals.  
+- **🐧 [LPIC 1 & 2](https://www.lpi.org/our-certifications/)**  
+  ![LPIC](https://img.shields.io/badge/LPIC%201%20&%202-0078D4?style=flat-square&logo=linux&logoColor=white)  
+  Advanced Linux system administration.  
+- **🏅 [CTF Achievements](https://ctftime.org/user/Nem0T03)**  
+  ![CTF](https://img.shields.io/badge/CTF%20Achievements-FFA500?style=flat-square&logo=hackthebox&logoColor=white)  
+  Challenges study on **Hack The Box**, **TryHackMe**, and **CTFtime**.
 
 ---
 
