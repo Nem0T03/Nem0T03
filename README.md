@@ -1,69 +1,84 @@
-Dưới đây là phiên bản chỉnh sửa lại của README để làm nổi bật nội dung và định dạng một cách chuyên nghiệp hơn. Bạn có thể thay `USERNAME` và thông tin khác thành thông tin cá nhân cụ thể của mình.
+Dưới đây là phiên bản được thiết kế lại đẹp hơn, phong cách hơn, và nhấn mạnh sự chuyên nghiệp. Hãy thay đổi thông tin cá nhân của bạn vào các vị trí phù hợp.  
 
 ---
 
-# 👋 Welcome to My GitHub!
+# ⚡ Welcome to My Digital Playground ⚡  
 
-## 👨‍💻 About Me
-Xin chào! Tôi là **[Tên của bạn]**, một kỹ sư hệ thống với niềm đam mê mãnh liệt trong lĩnh vực **bảo mật** và **pentest**. Tôi không ngừng học hỏi để nâng cao kỹ năng thông qua các dự án thực tế và các cuộc thi CTF.
+![Banner](https://img.shields.io/badge/-Cybersecurity%20Enthusiast-black?style=for-the-badge&logo=hackthebox&logoColor=white)
 
-- 🌱 **Hiện tại đang học**:  
-  - **Ngôn ngữ lập trình**: Rust, C++  
-  - **Nâng cao kỹ năng**: Python, C, Bash scripting, quản trị Linux  
-- 🏢 **Dự án hiện tại**: Phát triển và bảo mật hệ thống tại **Habiles Company**.  
-- 🔭 **Tập trung vào**:  
-  - Các dự án mã nguồn mở liên quan đến bảo mật.  
-  - Tự động hóa hệ thống.  
-- 🎯 **Mục tiêu dài hạn**: Trở thành chuyên gia pentest và đóng góp vào các dự án bảo mật hệ thống lớn.  
+## 🧑‍💻 About Me  
 
----
+Hey there! I'm **Nem0T03**, a **System Engineer** on a mission to master **Pentesting** and create impactful projects in the **security domain**. I'm passionate about **breaking things to learn** and love participating in **CTF competitions** to push my limits.  
 
-## 🛠️ Skills
-
-| **Hệ thống**         | **Kỹ năng bảo mật**     | **Ngôn ngữ lập trình** | **Khác**                     |
-|-----------------------|------------------------|-------------------------|------------------------------|
-| Linux (LPIC 1, 2)     | Network Pentesting     | Python, C, Rust, C++    | Docker, Git, CI/CD           |
-| CCNA (Mạng máy tính)  | Web Application Pentest| Bash scripting          | Mã nguồn mở, bảo mật hệ thống |
+### 🚀 What I'm Up To  
+- **🌱 Learning**:  
+  - **Languages**: Rust, C++, Python, C.  
+  - **Skills**: Advanced Linux, Bash scripting, and Network Pentesting.  
+- **🏢 Current Focus**:  
+  Building a secure, scalable infrastructure for **Habiles Company** with a focus on **automation and system hardening**.  
+- **🎯 Goal**:  
+  To become a top-tier **Pentester** and make a difference in the cybersecurity world.  
 
 ---
 
-## 📚 Certifications
+## 🔥 Skills at a Glance  
 
-- 🖥️ **CCNA**: Chứng nhận mạng máy tính căn bản và nâng cao.  
-- 🐧 **LPIC 1 & LPIC 2**: Chứng nhận quản trị hệ thống Linux.  
-- 💻 **CTF Achievements**: Tham gia và đạt thành tích tại nhiều giải đấu CTF.  
-
----
-
-## 📈 GitHub Stats & Widgets
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark)  
+| 🌐 **System Skills**      | 🛡️ **Security Skills**         | 💻 **Languages**           | ⚙️ **Tools**              |
+|---------------------------|-------------------------------|----------------------------|---------------------------|
+| Linux (LPIC 1, 2)         | Web & Network Pentesting      | Python, C, Rust, C++       | Docker, Git, CI/CD        |
+| CCNA (Networking)         | Vulnerability Assessment      | Bash scripting             | Open-source contribution  |
+| Virtualization & Automation| Threat Modeling              | Scripting for DevOps       | System Hardening          |
 
 ---
 
-## 🔥 Contributions & Activities
+## 🏆 Certifications  
 
-- 🌟 **Đóng góp mã nguồn mở**:  
-  Tham gia và đóng góp vào **[dự án nổi bật]** để học hỏi và chia sẻ kiến thức cộng đồng.  
-
-- 🛡️ **Thành tựu CTF**:  
-  Hoàn thành thử thách trên các nền tảng như **Hack The Box**, **TryHackMe**, hoặc **CTFtime**.  
-
-- 🚀 **Dự án hiện tại**:  
-  **Habiles Company** - Phát triển bảo mật hệ thống, kết hợp pentest và tự động hóa.  
+- **💼 CCNA**: Mastery of networking fundamentals.  
+- **🐧 LPIC 1 & 2**: Advanced Linux system administration.  
+- **🏅 CTF Achievements**: Tackled challenges on **Hack The Box**, **TryHackMe**, and **CTFtime**.  
 
 ---
 
-## 🌐 Connect with Me
+## 📈 GitHub Highlights  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nem0T03)  
-[![CTFtime](https://img.shields.io/badge/-CTFtime-orange?style=flat-square&logo=protonmail&logoColor=white)](https://ctftime.org/user/Nem0T03)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" alt="GitHub Streak" height="180px" />
+</p>  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</p>  
 
 ---
 
-## 🕒 Programming Activity (WakaTime Stats)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME&theme=dark)
+## 💻 Recent Activities  
 
+- **🌟 Open Source Contributions**: Actively contributing to **[Project Name]**.  
+- **⚔️ CTFs**: Completed challenges on **Hack The Box**, **TryHackMe**, and **other platforms**.  
+- **🚀 Habiles Company**: Building scalable and secure solutions with an emphasis on **[specific project details]**.  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://ctftime.org/user/username"><img src="https://img.shields.io/badge/-CTFtime-orange?style=for-the-badge&logo=protonmail&logoColor=white" alt="CTFtime"></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+</p>  
+
+---
+
+## 🕒 Weekly Activity (Powered by WakaTime)  
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME&theme=radical)  
+
+---
+
+## ✨ Fun Fact  
+I don’t just solve problems—I hunt them. Let’s make the internet a safer place, one pentest at a time!  
+
+---
+
+Đây là một README hoàn hảo với sự kết hợp của màu sắc nổi bật, thiết kế trung tâm và các thông tin cá nhân chuyên nghiệp. Bạn có thể thay đổi banner hoặc các thành phần nhỏ để tạo dấu ấn cá nhân hơn. 🚀
