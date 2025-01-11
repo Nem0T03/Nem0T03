@@ -48,6 +48,14 @@ Hey there! I'm **Nem0T03**, a **System Engineer** on a mission to master **Pente
 
 ---
 
+## 📅 Current CTFs  
+
+<p align="center">
+  <img src="https://ctftime.org/api/v1/teams/upcoming/" alt="Upcoming CTF" width="600"/>
+</p>
+
+---
+
 ## 💻 Recent Activities  
 
 - **🌟 Open Source Contributions**: Actively contributing to **[Project Name]**.  
