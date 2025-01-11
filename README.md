@@ -58,9 +58,9 @@ Hey there! I'm **Nem0T03**, a **System Engineer** on a mission to master **Pente
 
 ## 💻 Recent Activities  
 
-- **🌟 Open Source Contributions**: Actively contributing to **[Project Name]**.  
+- **🌟 Open Source Contributions**: Actively contributing to **Systemhelp**.  
 - **⚔️ CTFs**: Completed challenges on **Hack The Box**, **TryHackMe**, and **other platforms**.  
-- **🚀 Habiles Company**: Building scalable and secure solutions with an emphasis on **[specific project details]**.  
+- **🚀 Habiles Company**: Building scalable and secure solutions with an emphasis on **Habiles company**.  
 
 ---
 
@@ -68,7 +68,7 @@ Hey there! I'm **Nem0T03**, a **System Engineer** on a mission to master **Pente
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-kim-b%C3%ACnh"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://ctftime.org/user/username"><img src="https://img.shields.io/badge/-CTFtime-orange?style=for-the-badge&logo=protonmail&logoColor=white" alt="CTFtime"></a>
+  <a href="https://ctftime.org/user/Nem0T03"><img src="https://img.shields.io/badge/-CTFtime-orange?style=for-the-badge&logo=protonmail&logoColor=white" alt="CTFtime"></a>
 </p>
 
 ---
