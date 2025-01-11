@@ -8,11 +8,6 @@
 Hey there! I'm **Nem0T03**, a **System Engineer** on a mission to master **Pentesting** and create impactful projects in the **security domain**.  
 I love **breaking things to learn** and enjoy participating in **CTF competitions** to push my limits.
 
-- **Languages**: Rust, C++, Python, C.
-- **Skills**: Advanced Linux, Bash scripting, and Network Pentesting.
-- **Current Focus**: Building secure, scalable infrastructure for **Habiles Company**.
-- **Goal**: To become a top-tier **Pentester** and make a difference in cybersecurity.
-
 ---
 
 ## 🔥 Skills at a Glance
@@ -26,6 +21,7 @@ I love **breaking things to learn** and enjoy participating in **CTF competition
 ---
 
 ## 🏆 Certifications  
+
 - **💼 CCNA**: Networking fundamentals mastery.  
 - **🐧 LPIC 1 & 2**: Advanced Linux system administration.  
 - **🏅 CTF Achievements**: Challenges completed on **Hack The Box**, **TryHackMe**, **CTFtime**.
@@ -54,6 +50,7 @@ I love **breaking things to learn** and enjoy participating in **CTF competition
 ---
 
 ## 💻 Recent Activities  
+
 - **🌟 Open Source**: Contributing to **Systemhelp**.
 - **⚔️ CTFs**: Challenges completed on **Hack The Box**, **TryHackMe**, and **other platforms**.
 - **🚀 Habiles Company**: Working on **scalable, secure solutions**.
