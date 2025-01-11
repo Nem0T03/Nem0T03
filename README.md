@@ -57,9 +57,12 @@ I love **breaking things to learn** and enjoy participating in **CTF competition
 
 ## 💻 Recent Activities  
 
-- **🌟 Open Source**: Contributing to **Systemhelp**.
-- **⚔️ CTFs**: Challenges completed on **Hack The Box**, **TryHackMe**, and **other platforms**.
-- **🚀 Habiles Company**: Working on **scalable, secure solutions**.
+- **🌟 Open Source**: Contributing to **[Systemhelp](https://github.com/your-username/systemhelp)**.  
+  ![Open Source](https://img.shields.io/badge/Open%20Source-%2334D058?style=flat-square&logo=github&logoColor=white)  
+- **⚔️ CTFs**: Challenges completed on **Hack The Box**, **TryHackMe**, and **other platforms**.  
+  ![CTF](https://img.shields.io/badge/CTFs-%23FFA500?style=flat-square&logo=hackthebox&logoColor=white)  
+- **🚀 Habiles Company**: Working on **scalable, secure solutions** for the company.  
+  ![Company](https://img.shields.io/badge/Habiles%20Company-%2300A9E0?style=flat-square&logo=appveyor&logoColor=white)
 
 ---
 
@@ -67,16 +70,16 @@ I love **breaking things to learn** and enjoy participating in **CTF competition
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-kim-b%C3%ACnh">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://ctftime.org/user/Nem0T03">
-    <img src="https://img.shields.io/badge/-CTFtime-orange?style=for-the-badge&logo=protonmail&logoColor=white" alt="CTFtime">
+    <img src="https://img.shields.io/badge/-CTFtime-%23FF5733?style=for-the-badge&logo=protonmail&logoColor=white" alt="CTFtime">
   </a>
   <a href="https://github.com/Nem0T03">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.hackthebox.eu/">
-    <img src="https://img.shields.io/badge/-HackTheBox-000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
+    <img src="https://img.shields.io/badge/-HackTheBox-%23000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
   </a>
 </p>
 
