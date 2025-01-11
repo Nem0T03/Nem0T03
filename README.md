@@ -59,16 +59,8 @@ Hey there! I'm **Nem0T03**, a **System Engineer** on a mission to master **Pente
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/Nem0T03"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://ctftime.org/user/Nem0T03"><img src="https://img.shields.io/badge/-CTFtime-orange?style=for-the-badge&logo=protonmail&logoColor=white" alt="CTFtime"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-kim-b%C3%ACnh"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>  
-
----
-
-## 🕒 Weekly Activity (Powered by WakaTime)  
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nem0T03&theme=radical)  
 
 ---
 
