@@ -1,6 +1,7 @@
 # ⚡ Welcome to My Digital Playground ⚡  
 
 ![Banner](https://img.shields.io/badge/-Cybersecurity%20Enthusiast-black?style=for-the-badge&logo=hackthebox&logoColor=white)
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&width=500&lines=System+Engineer+%7C+CTF+Player+%7C+Pentester+in+Progress;Breaking+to+Learn%2C+Learning+to+Secure!;Passionate+about+Cybersecurity" alt="Typing SVG" /> </p>
 
 ---
 
